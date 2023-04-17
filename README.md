@@ -1,1 +1,1 @@
-# Electrophysiology - RewAveLab
+# Electrophysiology - RewAve-Lab
